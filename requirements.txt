@@ -1,0 +1,9 @@
+SpeechRecognition
+pyttsx3
+requests
+openai
+customtkinter
+Pillow
+pyaudio
+pywin32
+pipwin
